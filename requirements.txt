@@ -1,0 +1,17 @@
+playwright
+pandas
+rapidfuzz
+requests
+xgboost
+scikit-learn
+transformers
+torch
+unicodedata
+random
+time
+python-dotenv
+re
+os
+numpy
+datetime
+joblib
